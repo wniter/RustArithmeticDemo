@@ -1,5 +1,6 @@
 /**
  * 在同一个cargo文件中，创建目录，先添加mod，在添加use
+ * 一个文件名也算一个mod
  */
 pub mod _array;
 use  _array::array_rs;
